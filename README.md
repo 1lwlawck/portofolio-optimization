@@ -1,1 +1,1 @@
-portofolio.optimization.github.io
+portofolio-optimization.github.io
